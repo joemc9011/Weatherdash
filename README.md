@@ -16,7 +16,7 @@ Today's date and time, temperature, including the wind speed and UV index are sh
 
 # Screenshot
 
-![Screenshot](/assets/screenshot.png))
+![Screenshot](/assets/screenshot.png)
 
 # Instructions 
 
