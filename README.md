@@ -4,7 +4,7 @@ A semi functional weather Dashboard where a user can *eventually* search upwards
 
 In short, the dashboard utilizes ajax calls to Openweather to provide the current weather outlook for the day. 
 
-https://joemc9011.github.io/Weather/
+https://joemc9011.github.io/Weatherdash/
 
 # Key Features
 
@@ -16,7 +16,7 @@ Today's date and time, temperature, including the wind speed and UV index are sh
 
 # Screenshot
 
-![Screenshot]()
+![Screenshot](/assets/screenshot.png))
 
 # Instructions 
 
